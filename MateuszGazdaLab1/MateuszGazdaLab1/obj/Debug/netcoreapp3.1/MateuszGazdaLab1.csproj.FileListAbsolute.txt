@@ -1,0 +1,14 @@
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\bin\Debug\netcoreapp3.1\MateuszGazdaLab1.exe
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\bin\Debug\netcoreapp3.1\MateuszGazdaLab1.deps.json
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\bin\Debug\netcoreapp3.1\MateuszGazdaLab1.runtimeconfig.json
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\bin\Debug\netcoreapp3.1\MateuszGazdaLab1.runtimeconfig.dev.json
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\bin\Debug\netcoreapp3.1\MateuszGazdaLab1.dll
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\bin\Debug\netcoreapp3.1\MateuszGazdaLab1.pdb
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.csproj.AssemblyReference.cache
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.AssemblyInfoInputs.cache
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.AssemblyInfo.cs
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.csproj.CoreCompileInputs.cache
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.dll
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.pdb
+C:\Users\matig\Documents\Praca z laboratorium\MateuszGazdaLab1\MateuszGazdaLab1\obj\Debug\netcoreapp3.1\MateuszGazdaLab1.genruntimeconfig.cache
